@@ -1,8 +1,8 @@
 {
-  "checked": "2026-09-16",
+  "checked": "2026-09-17",
   "github": {
-    "stars": 41513,
-    "pullRequests": 5709,
+    "stars": 41653,
+    "pullRequests": 5756,
     "contributors": 520,
     "commitsYear": 3860,
     "weeks": [
@@ -12,7 +12,7 @@
     ]
   },
   "foundation": {
-    "total": 18.5,
+    "total": 18.55,
     "steps": [
       {
         "date": "2026-08-21",
@@ -41,34 +41,39 @@
       },
       {
         "date": "2026-09-03",
-        "amount": 14.95,
+        "amount": 14.8,
         "post": "/news/2026/09/omacom-foundation-secures-tokens-from-leading-labs/"
       },
       {
         "date": "2026-09-07",
-        "amount": 15.5,
+        "amount": 15.35,
         "post": "/news/2026/09/omacom-foundation-raises-another-half-a-million-dollars/"
       },
       {
         "date": "2026-09-09",
-        "amount": 18.5,
+        "amount": 18.35,
         "post": "/news/2026/09/digitalocean-joins-as-founding-corporate-patron/"
+      },
+      {
+        "date": "2026-09-17",
+        "amount": 18.55,
+        "post": "/news/2026/09/brian-cartmell-and-american-cloud-join-as-open-patronage-doubles/"
       }
     ]
   },
   "downloads": {
-    "total": 1131571,
+    "total": 1139620,
     "countries": 215,
     "post": "/news/2026/09/quattro-crosses-200000-iso-downloads/",
     "periods": [
-      { "label": "Yesterday", "days": 1, "count": 6246 },
-      { "label": "Last week", "days": 7, "count": 55642 },
-      { "label": "Last month", "count": 307376, "days": 30 }
+      { "label": "Yesterday", "days": 1, "count": 8049 },
+      { "label": "Last week", "days": 7, "count": 53474 },
+      { "label": "Last month", "count": 312157, "days": 30 }
     ],
     "counting": {
       "since": "2026-09-06",
-      "through": "2026-09-15",
-      "lastAdded": 6246,
+      "through": "2026-09-16",
+      "lastAdded": 8049,
       "countries": [
         "AD",
         "AE",
@@ -128,6 +133,7 @@
         "FI",
         "FJ",
         "FK",
+        "FM",
         "FO",
         "FR",
         "GA",

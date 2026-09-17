@@ -1,7 +1,7 @@
 {
   "source": "luma-api",
   "calendar": "https://luma.com/omarchy",
-  "refreshed": "2026-09-16",
+  "refreshed": "2026-09-17",
   "events": [
     {
       "id": "evt-YDyCEwwpiMzSFDB",
@@ -648,6 +648,23 @@
       "coverHeight": 800
     },
     {
+      "id": "evt-PJRT1UsyYK918VB",
+      "title": "OMARCHY - Orange County, CA",
+      "url": "https://luma.com/k5y6dt4g",
+      "start": "2026-09-24T00:00:00.000Z",
+      "end": "2026-09-24T02:00:00.000Z",
+      "timezone": "America/Los_Angeles",
+      "address": "27422 Portola Pkwy, Lake Forest, CA 92610, USA",
+      "city": "Lake Forest",
+      "country": "US",
+      "online": false,
+      "geo": { "lat": 33.6706577, "lon": -117.65410750000001 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-PJRT1UsyYK918VB-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
       "id": "evt-j0kkKPmpZ4BsV8P",
       "title": "Omarchy Germany / Deutschland Meetup",
       "url": "https://luma.com/nh08a3uq",
@@ -1035,6 +1052,23 @@
       "geo": { "lat": 9.010187499999999, "lon": 38.7810625 },
       "hosts": [],
       "cover": "/images/meetups/evt-lNdN45JFBUoPvbk-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
+      "id": "evt-uASCAbX2odjzImy",
+      "title": "Omarchy Sydney",
+      "url": "https://luma.com/ufs7ing3",
+      "start": "2026-10-07T07:30:00.000Z",
+      "end": "2026-10-07T09:30:00.000Z",
+      "timezone": "Australia/Sydney",
+      "address": "Sydney NSW, Australia",
+      "city": "Sydney",
+      "country": "AU",
+      "online": false,
+      "geo": { "lat": -33.8622503, "lon": 151.207684 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-uASCAbX2odjzImy-full.webp",
       "coverWidth": 800,
       "coverHeight": 800
     },
