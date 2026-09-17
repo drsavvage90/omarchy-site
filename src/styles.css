@@ -1788,11 +1788,8 @@ h6 {
 }
 
 /* Phone: wallpaper wall */
-.ported .phone__intro,
-.ported .phone__note {
-  max-width: var(--measure);
-}
 .ported .phone__intro {
+  max-width: var(--measure);
   margin: 0;
 }
 .ported .phone__intro + .phone__intro {
@@ -1842,11 +1839,6 @@ h6 {
   margin-top: 0.5rem;
   font-size: 12px;
   color: var(--color-text-muted);
-}
-.ported .phone__note {
-  margin-top: 1.75rem;
-  font-size: 14px;
-  color: var(--color-text-secondary);
 }
 .ported .phone__next {
   margin-top: 1.75rem;
